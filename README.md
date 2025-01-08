@@ -1,0 +1,1 @@
+This is an improvement of https://github.com/Yaska1706/euro-exchange-rates to evaluate my software development progress
